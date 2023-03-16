@@ -24,9 +24,9 @@
 # - All values MUST be placed inside 'single quotes'
 # - DO NOT use these special characters within values: \ " '
 
-YOUR_IPSEC_PSK=''
-YOUR_USERNAME=''
-YOUR_PASSWORD=''
+YOUR_IPSEC_PSK='t4eadfdfeewr'
+YOUR_USERNAME='test'
+YOUR_PASSWORD='12345678'
 
 # VPN client setup: https://vpnsetup.net/clients
 
